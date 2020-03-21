@@ -19,3 +19,4 @@ A cool snake game with running food
  
 
 ### Git it a try! 
+[![Run on Repl.it](https://repl.it/badge/github/ZuhairHossain/snakeGame-1)](https://repl.it/github/ZuhairHossain/snakeGame-1)
